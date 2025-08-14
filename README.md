@@ -16,7 +16,7 @@ A full-stack todo application built using PostgreSQL, Express, React, and Node.j
 ## Prerequisites
 
 Before you begin, ensure you have the following installed:
-- Node.js (v14 or higher)
+- Node.js (v15 or higher)
 - PostgreSQL (v12 or higher)
 - npm or yarn package manager
 
